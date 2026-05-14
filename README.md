@@ -18,6 +18,7 @@ Generate business insights for decision-making
 Tools & Technologies
 
 SQL
+
 Excel / CSV Dataset
 
 SQL Concepts Used
